@@ -4,6 +4,12 @@
 [![Build Status](https://github.com/pivotal/kpack/workflows/CI/badge.svg)](https://github.com/pivotal/kpack/actions)
 [![codecov](https://codecov.io/gh/pivotal/kpack/branch/master/graph/badge.svg)](https://codecov.io/gh/pivotal/kpack)
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
 Kubernetes Native Container Build Service
 
 kpack extends [Kubernetes](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) and utilizes unprivileged kubernetes primitives to provide builds of OCI images as a platform implementation of [Cloud Native Buildpacks](https://buildpacks.io) (CNB).
